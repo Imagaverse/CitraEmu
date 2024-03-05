@@ -1,3 +1,7 @@
+# Citra was ShutDown
+Citra was shutdown on March 3rd, 2024 after a settlement between Nintedo and YuZu. This depository is a reupload of Citra's source code which Yuzu/Citra posted on <a href="https://archive.org/details/citra-macos-universal-20240304-d996981.7z">archive.org</a>
+Let it be known that while I am a programmer I am not experienced enough. I reuploaded Citra in hopes of resparking it's development. If you wish to contribute, feel free to ask.
+
 | Pull Request | Commit | Title | Author | Merged? |
 |----|----|----|----|----|
 | [7372](https://github.com/citra-emu/citra//pull/7372) | [`265ed7ec1`](https://github.com/citra-emu/citra//pull/7372/files) | pica_types: Correctly restrict Float<M, E> precision | [vitor-k](https://github.com/vitor-k/) | Yes |
