@@ -29,7 +29,7 @@ It is written in C++ with portability in mind and builds are actively maintained
         <img src="https://github.com/citra-emu/citra/workflows/citra-ci/badge.svg"
             alt="GitHub Actions Build Status">
     </a>
-    <a href="https://discord.gg/FAXfZV9">
+    <a href="">
         <img src="https://img.shields.io/discord/220740965957107713?color=%237289DA&label=Citra&logo=discord&logoColor=white"
             alt="Discord">
     </a>
